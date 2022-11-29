@@ -12,6 +12,6 @@ Disponible à cette adresse : http://tampermonkey.net/
 
 2 : installer les 2 scripts
 
-3 : ???
+3 : être connecté sur le site d'hyping et afk sur la page https://hyping.fr/vote (le vote peut prendre jusqu'a 2 minute de façon aléatoire pour faire plus humain)
 
 4 : profit
